@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Electrical and Computer Engineering, University of Washington (Seattle), 2022 (Advisor: [M. P. Anantram](https://sites.uw.edu/anantmp/))
+* M.S. in Electrical Engineering, University of Washington (Seattle), 2017
+* B.S. in Electrical Engineering, Kuwait University, 2013
+
+
 
 Work experience
 ======
