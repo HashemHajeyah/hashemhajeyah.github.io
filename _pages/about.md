@@ -14,3 +14,6 @@ Most of my work requires:
 - **Atomistic Modeling**: Density functional theory (DFT) calculations using packages like Gaussian, SIESTA, and VASP.
 - **Coding**: writing codes and developing algorithms to calculate charge transport properties of nanoscale devices, using MATLAB or Python.
 - **3D Vizualisation**: to view atomic structures and devices, [VMD](https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD) or GaussView
+
+
+If you are interested in my work or have any questions, please do not hesitate to [contact me](mailto:hashem.mohammad@ku.edu.kw)
