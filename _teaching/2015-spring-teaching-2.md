@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Previous Teaching"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/previous-teaching
+
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+ENGR205: Electrical Engineering Fundamentals
 ======
 
-Heading 2
+EE213: Linear Circuits Analysis
 ======
 
-Heading 3
-======
