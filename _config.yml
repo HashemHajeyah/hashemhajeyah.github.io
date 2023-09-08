@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hashem Hajeyah Mohammad"
+title                    : "Abigail Azari"
 title_separator          : "-"
-name                     : &name "Hashem Hajeyah"
-description              : &description "personal description"
-url                      : https://hashemhajeyah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Abigail Azari"
+description              : &description "Post-Doc Scholar at UC Berkeley"
+url                      : https://abbyazari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hashemhajeyah/hashemhajeyah.github.io"
+repository               : #"astro-abby.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hashem Mohammad"
-  avatar           : "profile.png"
-  bio              : "Assitant Professor at the Electrical Engineering Department, College of Engineering and Petroleum, Kuwait Universiry"
-  location         : "Kuwait"
+  name             : "Abigail Azari"
+  avatar           : "profile.jpg"
+  bio              : "Post-Doctoral Scholar, UC Berkeley"
+  location         : 
   employer         :
-  pubmed           : #""
-  googlescholar    : "https://scholar.google.com/citations?user=yyf7E4IAAAAJ&hl=en"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Hashem-Mohammad"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=UdcGQbYAAAAJ&hl=en&oi=ao"
+  email            :  azari at berkeley dot edu
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "abbyazari"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0002-9783-2326"
+  linkedin         : "abigail-azari-45439859"
+  orcid            : #"https://orcid.org/0000-0002-8665-5459"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -129,23 +128,22 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
   - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
   - gulpfile.js
+  - LICENSE
   - log
   - node_modules
   - package.json
+  - Rakefile
+  - README
   - tmp
-  - vendor
 keep_files:
   - .git
   - .svn
@@ -181,7 +179,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +225,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
@@ -255,7 +253,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Detroit # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
