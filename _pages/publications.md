@@ -4,67 +4,23 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-This page provides an overview of essential themes in my scholarship in machine learning for science and planetary plasma transport. You can find a full list of works at <a href="https://scholar.google.com/citations?hl=en&user=UdcGQbYAAAAJ">Google Scholar</a> and active projects under <a href="https://abbyazari.github.io/research/">Research</a>.
 
-### Data Science Methods for Scientific Insight
+### Journal Articles
 
-* **Azari, A. R.**, Biersteker, J. B., Dewey, R. M. et al., (2021) "Integrating Machine Learning for Planetary Science: Perspectives for the Next Decade".  Submitted to the NRC Planetary and Astrobiology Decadal Survey. Full text availiable via <a href="https://baas.aas.org/pub/2021n4i128/release/1?readingCollection=7272e5bb">Bulletin of the American Astronomical Society</a>.
+\[1\] B. Demir, __H. Mohammad__, M. P. Anantram, and E. E. Oren, "DNA - Au (111) Interactions and Transverse Charge Transport Properties for DNA - Based Electronic Devices", *Physical Chemistry Chemical Physics*, 2023. Available online: <a href="http://pubs.rsc.org/en/Content/ArticleLanding/2023/CP/D2CP05009A" class="uri" class="uri">http://pubs.rsc.org/en/Content/ArticleLanding/2023/CP/D2CP05009A</a>
 
-  *This paper represents a community of 16 co-authors and 32 co-signers and our recommendations for machine learning in planetary science to funding agencies and the planetary community. It summarizes current efforts in the field in machine learning applied to planetary science, and compares this to other fields in the natural sciences. It concludes with recommendations in the next decade for supporting a data-rich future for planetary science.*
-  
-* Liemohn, M. W., Shane, D., **Azari, A. R.**, et al. (2021) "RMSE is not enough: Guidelines to robust data-model comparisons for magnetospheric physics". Accesible at <a href="https://www.sciencedirect.com/science/article/pii/S1364682621000857"> Journal of Atmospheric and Solar-Terrestrial Physics</a>.
-  
-* **Azari, A. R.**, Lockhart, J. W., Liemohn, M. W., and Jia, X. (2020). "Incorporating Physical Knowledge into Machine Learning for Planetary Space Physics". Access at <a href="https://www.frontiersin.org/articles/10.3389/fspas.2020.00036/"> Frontiers in Astronomy and Space Sciences </a>.
-  
-* Liemohn, M. W., **Azari, A. R.**, Ganushkina, N. Y., and Rastatter, L. (2020) "The STONE curve: A ROC-derived model performance assessment tool". Accesible at <a href="https://doi.org/10.1029/2020EA001106"> Earth and Space Science</a>.
+\[2\] Y. Wang, B. Demir, __H. Mohammad__, E. E. Oren, and M. P. Anantram, "Computational study of the role of counterions and solvent dielectric in determining the conductance of B-DNA", *Physical Review E*, vol. 107, n.º 4, p. 044404, abr. 2023. Available online: <a href="https://link.aps.org/doi/10.1103/PhysRevE.107.044404" class="uri" class="uri">https://link.aps.org/doi/10.1103/PhysRevE.107.044404</a>
 
-  *These papers create and review methods for data-intensive research. The first paper (Liemohn et al., 2021) summarizes data-model comparisons including event metrics and argues for increased data inclusive comparisons in physics models. The second paper (Liemohn et al., 2020) describes a new metric for data-model comparisons (based off the commonly used ROC curve in classification) for continuous data in Earth and Space Sciences. The third paper (Azari et al., 2020) details a process to include physical knowledge in planetary and space physics machine learning models, before demonstrating that this inclusion increases the interpretability of models for scientific knowledge gain.* 
+\[3\] A. De, __H. Mohammad__, Y. Wang, R. Kubendran, A. K. Das, and M. P. Anantram, "Performance analysis of DNA crossbar arrays for high-density memory storage applications", *Scientific Reports 2023 13:1*, vol. 13, n.º 1, pp. 1-13, abr. 2023. Available online: <a href="https://www.nature.com/articles/s41598-023-33004-6" class="uri" class="uri">https://www.nature.com/articles/s41598-023-33004-6</a>
 
-### Planetary Systems Plasma Transport - Terrestrial Planets
+\[4\] S. R. Patil, __H. Mohammad__, V. Chawda, N. Sinha, R. K. Singh, J. Qi, and M. P. Anantram, "Quantum Transport in DNA Heterostructures: Implications for Nanoelectronics", *ACS Applied Nano Materials*, vol. 4, n.º 10, pp. 10029-10037, oct. 2021. Available online: <a href="https://pubs.acs.org/doi/10.1021/acsanm.1c01087" class="uri" class="uri">https://pubs.acs.org/doi/10.1021/acsanm.1c01087</a>
 
-* **Azari, A. R.**, Abrahams, E. A., Sapienza, F., et al. (2023, under review) "Magnetic Field Draping in Induced Magnetospheres: Evidence from the MAVEN Mission to Mars".
+\[5\] __H. Mohammad__, B. Demir, C. Akin, B. Luan, J. Hihath, E. E. Oren, and M. P. Anantram, "Role of intercalation in the electrical properties of nucleic acids for use in molecular electronics", *Nanoscale Horizons*, vol. 6, n.º 8, pp. 651-660, 2021. Available online: <a href="http://xlink.rsc.org/?DOI=D1NH00211B" class="uri" class="uri">http://xlink.rsc.org/?DOI=D1NH00211B</a>
 
-  *This work details a large-scale data-driven evaluation of Mars' magnetic field response to the multiple spatio-temporal drivers with MAVEN spacecraft data. This work culminated in an expanded theoretical model of induced magnetospheres. Work within this manuscript is partially funded by the inaugural NASA AI/ML Grants and includes applications of Bayesian methods to quantify causal effects in Mars' space environment and development of novel qualitative visualization methods for planetary magnetic fields.*
+\[6\] C. E. McCold, L. Domulevicz, Z. Cai, W. Y. Lo, S. Hihath, K. March, __H. Mohammad__, M. P. Anantram, L. Yu, and J. Hihath, "Molecular Control of Charge Carrier and Seebeck Coefficient in Hybrid Two-Dimensional Nanoparticle Superlattices", *Journal of Physical Chemistry C*, vol. 124, n.º 1, pp. 17-24, ene. 2020. Available online: <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.9b08185" class="uri" class="uri">https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.9b08185</a>
 
-* Dewey, R. M., Slavin, J., Raines, J., **Azari, A. R.**, and Sun, W. (2020) "MESSENGER observations of flow braking and flux pileup of dipolarizations in Mercury's magnetotail: Evidence for current wedge formation". Access at the <a href="https://doi.org/10.1029/2020JA028112"> Journal of Geophysical Research: Space Physics</a>.
+\[7\] Y. Li, J. M. Artés, B. Demir, S. Gokce, __H. Mohammad__, M. Alangari, M. P. Anantram, E. E. Oren, and J. Hihath, "Detection and identification of genetic material via single-molecule conductance", *Nature Nanotechnology*, vol. 13, n.º 12, pp. 1167-1173, dic. 2018. Available online: <a href="http://www.nature.com/articles/s41565-018-0285-x" class="uri" class="uri">http://www.nature.com/articles/s41565-018-0285-x</a>
 
-  *This paper performed an automated identification of plasma transport in Mercury's magnetic environment to compare this system to that of Earth's. In analyzing transport events, this work found that a small fraction of events reached the nightside surface, which has implications for surface space weathering.*
+\[8\] Z. Wan, __H. Mohammad__, Y. Zhao, C. Yu, R. B. Darling, and M. P. Anantram, "Engineering of the resistive switching properties in V 2 O 5 thin film by atomic structural transition: Experiment and theory", *Journal of Applied Physics*, vol. 124, n.º 10, p. 105301, sep. 2018. Available online: <a href="http://aip.scitation.org/doi/10.1063/1.5045826" class="uri" class="uri">http://aip.scitation.org/doi/10.1063/1.5045826</a>
 
-### Planetary Systems Plasma Transport - Outer Planets
-
-
-* **Azari, A. R.**,  Jia, X., Liemohn, M. W., et al. (2019). "Are Interchange Injections Organized by Rotation Longitude?" Access at <a href="https://doi.org/10.1029/2018JA026196"> Journal of Geophysical Research: Space Physics</a>.
-
-  *This work demonstrates the limited influence of the upper atmosphere on interchange through systematically evaluating previous statistical studies over different sampling regimes.*
-
-* **Azari, A. R.**, Liemohn, M. W., Jia, X. et al. (2018). "Interchange Injections at Saturn: Statistical Survey of Energetic   H$^{+}$ Sudden Flux Intensifications". Access at <a href="https://doi.org/10.1029/2018JA025391"> Journal of Geophysical Research: Space Physics</a>.
-
-  *This paper developed a new standardized, and automated, physics based identification method for interchange most similar to logistic regression, and used this to understand the statistical distributions of events. A figure in this paper was featured in the journal for its novel use of visualizations from other data-rich fields (genomics).*
-
-* Paranicas, C., Thomsen, M., Kollmann, P., **Azari, A. R.**, et al. (2020). “Inflow speed analysis of interchange injections in Saturn’s magnetosphere”. Access at the <a href="https://doi.org/10.1029/2020JA028299"> Journal of Geophysical Research: Space Physics</a>.
-
-  *This work estimates the speed at which plasma is traveling toward Saturn, an essential number required to calculate system wide transport.*
-  
-* Rymer, A...[46 total including **Azari, A. R.**] (2020). "Neptune and Triton: A Flagship for Everyone". Submitted to the Planetary Science and Astrobiology Decadal Survey 2023-2032. Access <a href="http://surveygizmoresponseuploads.s3.amazonaws.com/fileuploads/623127/5489366/244-8cff7749d82bbc790f1cc58b9a047995_RymerAbigailM.pdf"> online</a>.
-
-  *This paper represents the outer planets community's motivation for sending a mission to the Neptune system in the near future. Neptune, to date, has never had an orbiting spacecraft. A mission to Neptune would advance cross-disciplinary planetary science, including: geologic studies for Triton, considering Neptune as a class of discovered exoplanets, and plasma transport studies. For plasma transport, Neptune has large non-dipolar magnetic fields, complicating our currently understood systems. Such a mission would represent the next several decades, given the time scale required for these missions, of scientific progress for these  planetary systems, and understanding mass transport at the icy giants.*
-
-
-### Computational Geoscience Education
-
-* **Azari, A. R.** (2020) "A Data-Driven Understanding of Plasma Transport in Saturn's Magnetic Environment" Ph.D. Thesis. University of Michigan. Access on the <a href="https://deepblue.lib.umich.edu/handle/2027.42/155251"> DeepBlue Thesis Database</a>.
-
-  *The appendix of this work discusses the implementation of Jupyter notebooks to provide an approachable experience for students into computation in a course for undergraduate and graduate students. We found that Jupyter notebooks naturally provided instructors to embrace a growth mindset style of learning by allowing students to attempt, and retry solutions. It also allowed instructors to grade computational assignments for partial credit, reinforcing a growth minded approach to student learning by the instructional team. This work was presented at <a href="https://figshare.com/articles/Jupiter_with_Jupyter/11691783AGU"> AGU in 2019</a>.*
-
-<!-- ## Computational Resources:  ---> 
-
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %} ---> 
-
-<!-- {% include base_path %} ---> 
-
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} ---> 
+\[9\] S. Makhsous, __H. Mohammad__, J. M. Schenk, A. V. Mamishev, A. R. Kristal, S. Makhsous, H. M. Mohammad, J. M. Schenk, A. V. Mamishev, and A. R. Kristal, "A Novel Mobile Structured Light System in Food 3D Reconstruction and Volume Estimation", *Sensors*, vol. 19, n.º 3, p. 564, ene. 2019. Available online: <a href="http://www.mdpi.com/1424-8220/19/3/564" class="uri" class="uri">http://www.mdpi.com/1424-8220/19/3/564</a>
