@@ -11,5 +11,6 @@ author_profile: true
 - **Office**: S02-E2-323
 - **Mail**: P.O. Box 5969, Safat 13060, Kuwait
 - **Phone**: (+965) 24987634
+- **Email**: hashem.mohammad@ku.edu.kw
 
 

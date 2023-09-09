@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "List of Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -13,7 +13,7 @@ author_profile: true
 
 \[3\] A. De, **H. Mohammad**, Y. Wang, R. Kubendran, A. K. Das, and M. P. Anantram, "Performance analysis of DNA crossbar arrays for high-density memory storage applications", *Scientific Reports 2023 13:1*, vol. 13, n.º 1, pp. 1-13, abr. 2023. Available online: <a href="https://www.nature.com/articles/s41598-023-33004-6" class="uri" class="uri">https://www.nature.com/articles/s41598-023-33004-6</a>
 
-\[4\] S. R. Patil,**H. Mohammad**, V. Chawda, N. Sinha, R. K. Singh, J. Qi, and M. P. Anantram, "Quantum Transport in DNA Heterostructures: Implications for Nanoelectronics", *ACS Applied Nano Materials*, vol. 4, n.º 10, pp. 10029-10037, oct. 2021. Available online: <a href="https://pubs.acs.org/doi/10.1021/acsanm.1c01087" class="uri" class="uri">https://pubs.acs.org/doi/10.1021/acsanm.1c01087</a>
+\[4\] S. R. Patil, **H. Mohammad**, V. Chawda, N. Sinha, R. K. Singh, J. Qi, and M. P. Anantram, "Quantum Transport in DNA Heterostructures: Implications for Nanoelectronics", *ACS Applied Nano Materials*, vol. 4, n.º 10, pp. 10029-10037, oct. 2021. Available online: <a href="https://pubs.acs.org/doi/10.1021/acsanm.1c01087" class="uri" class="uri">https://pubs.acs.org/doi/10.1021/acsanm.1c01087</a>
 
 \[5\] **H. Mohammad**, B. Demir, C. Akin, B. Luan, J. Hihath, E. E. Oren, and M. P. Anantram, "Role of intercalation in the electrical properties of nucleic acids for use in molecular electronics", *Nanoscale Horizons*, vol. 6, n.º 8, pp. 651-660, 2021. Available online: <a href="http://xlink.rsc.org/?DOI=D1NH00211B" class="uri" class="uri">http://xlink.rsc.org/?DOI=D1NH00211B</a>
 
