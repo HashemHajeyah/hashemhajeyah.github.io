@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Hashem Hajeyah"
   avatar           : "profile_pic.jpeg"
-  bio              : "Assistant Professer at the Electrical Engineering Department, College of Engineering and Petroleum, Kuwait University"
+  bio              : "Assistant Professer at the [Electrical Engineering Department](https://kuweb.ku.edu.kw/COEP/EngineeringPrograms/ElecEng/index.htm), College of Engineering and Petroleum, [Kuwait University](https://kuweb.ku.edu.kw/ku/index.htm)"
   location         : 
-  employer         :
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=yyf7E4IAAAAJ&hl=en"
   email            :  hashem.mohammad@ku.edu.kw
