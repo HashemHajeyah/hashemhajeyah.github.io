@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Assistant Professor at the - [Electrical Engineering Department](https://kuweb.ku.edu.kw/COEP/EngineeringPrograms/ElecEng/index.htm). My research is in nanotechnology, primarily focused on **Theory and Modeling charge transport in nanoscale devices**. My intrests include atomistic modeling of nanoscale devices and materials, Modeling quantum electron transport in DNA and biomolecules, Molecular electronics, and device physics. To study the electrical properties of nanoscale devices, I use quantum mechanical methods such as density functional theory and apply Green's function formalism to calculate charge transport properties.
+I'm an Assistant Professor at the [Electrical Engineering Department](https://kuweb.ku.edu.kw/COEP/EngineeringPrograms/ElecEng/index.htm). My research is in nanotechnology, primarily focused on **Theory and Modeling charge transport in nanoscale devices**. My intrests include atomistic modeling of nanoscale devices and materials, Modeling quantum electron transport in DNA and biomolecules, Molecular electronics, and device physics. To study the electrical properties of nanoscale devices, I use quantum mechanical methods such as density functional theory and apply Green's function formalism to calculate charge transport properties.
 
 My approach utilizies:
 - **Atomistic Modeling**: Structure optimization and density functional theory (DFT) calculations using software like [Gaussian](https://gaussian.com/), [SIESTA](https://siesta-project.org/siesta/About/overview.html), [VASP](https://www.vasp.at/info/about/), and [AMBER](https://ambermd.org/index.php).
