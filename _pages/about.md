@@ -17,10 +17,9 @@ My approach utilizies:
 
 
 
-dna_work_overview.png
 <img src="/images/dna_work_overview.png" alt="Drawing" /> 
 
 
 
 
-If you are interested in my work or have any questions, please do not hesitate to [contact me](mailto:hashem.mohammad@ku.edu.kw)
+<span style="color:red;"> If you are interested in my work or have any questions, please do not hesitate to [contact me](mailto:hashem.mohammad@ku.edu.kw) </span>
