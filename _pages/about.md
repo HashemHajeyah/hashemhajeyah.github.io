@@ -18,8 +18,3 @@ My approach utilizies:
 
 
 <img src="/images/dna_work_overview.png" alt="Drawing" /> 
-
-
-
-
-<span style="color:red;"> If you are interested in my work or have any questions, please do not hesitate to [contact me](mailto:hashem.mohammad@ku.edu.kw) </span>
