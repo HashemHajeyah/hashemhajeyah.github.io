@@ -12,8 +12,8 @@ main:
 #  - title: "Research"
 #  url: /research/   
   
- # - title: "Contact"
-  # url: /visualizations/  
+  - title: "Contact"
+   url: /visualizations/  
     
  # - title: "Community"
  #   url: /community/
