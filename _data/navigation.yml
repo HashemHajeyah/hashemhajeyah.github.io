@@ -13,7 +13,7 @@ main:
 #  url: /research/   
   
   - title: "Contact"
-   url: /visualizations/  
+    url: /visualizations/    
     
  # - title: "Community"
  #   url: /community/
