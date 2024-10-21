@@ -7,11 +7,7 @@ author_profile: true
 
 The EE department courses offered are listed [here](https://kuweb.ku.edu.kw/COEP/EngineeringPrograms/ElecEng/CourseCatalog/index.htm).
 
-### Currently offered courses (Fall 2023):
-- EE233: Electronics 1
-- EE213: Linear Circuits Analysis
-
-
-### Previously taught courses:
-- ENGR205: Electrical Engineering Fundamentals (Last taught: Spring 2023)
+### List of taught courses:
+- EE233: Electronics 1 (Last taught: Summer 2024)
+- ENGR205: Electrical Engineering Fundamentals (Last taught: Spring 2024)
 - EE213: Linear Circuits Analysis (Last taught: Spring 2023)
