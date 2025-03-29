@@ -7,9 +7,6 @@ author_profile: true
 
 ### Journal Articles
 
-
-Mohammad, H., Alsaleh, L., Alotaibi, A., Alolaiyan, O., Takahashi, T., Anantram, M. P., & Nishino, T. (2025). DNA conductance modulation via aptamer binding. Nanoscale, 17(13), 8035–8046. https://doi.org/10.1039/D4NR05139D
-
 \[1\] **H. Mohammad**, L. Alsaleh, A. Alotaibi, O. Alolaiyan, T. Takahashi, M. P. Anantram and T. Nishino, "DNA conductance modulation via aptamer binding", *Nanoscale*, vol. 17, no. 13, p. 8035–8046, mar. 2025. Available online: <a href="https://pubs.rsc.org/en/content/articlelanding/2025/nr/d4nr05139d" class="uri" class="uri">https://doi.org/10.1039/D4NR05139D</a>
 
 \[2\] **H. Mohammad** and M. P. Anantram, "Charge transport through DNA with energy-dependent decoherence", *Physical Review E*, vol. 8, no. 4, p. 044403, oct. 2023. Available online: <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.044403" class="uri" class="uri">https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.044403</a>
